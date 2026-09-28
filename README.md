@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Bilal Ayaz</h1>
-<h3 align="center">Senior AI Engineer | LLM Engineer | RAG & AI Agents</h3>
+<h3 align="center">Senior AI Engineer | LLM Engineer | RAG & AI Agents | Python & FastApi</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilalayaz2">
