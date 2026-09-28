@@ -12,7 +12,7 @@
 
 ---
 
-I am a Pakistan-based **Senior AI Engineer** focused on building production-oriented LLM applications, RAG pipelines, and agentic workflows using Python. My strongest differentiator is the combination of **building real-world AI systems** and **rigorously testing their reliability** under realistic and adversarial conditions.
+I am a **Senior AI Engineer** focused on building production-oriented LLM applications, RAG pipelines, and agentic workflows using Python. My strongest differentiator is the combination of **building real-world AI systems** and **rigorously testing their reliability** under realistic and adversarial conditions.
 
 ### 🎯 Core Focus Areas
 - **LLM Applications:** Deterministic orchestration, structured outputs, prompt chaining.
