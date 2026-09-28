@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Bilal Ayaz</h1>
-<h3 align="center">Senior AI Engineer | RAG, AI Agents & LLM Evaluation | Python, FastAPI</h3>
+<h3 align="center">Senior AI Engineer | RAG, AI Agents & LLM Evaluation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilalayaz2">
@@ -19,7 +19,7 @@ I am a **Senior AI Engineer** focused on building production-oriented LLM applic
 - **RAG & Semantic Retrieval:** Dense/sparse retrieval, semantic chunking, ontology mapping.
 - **AI Agents & Tool Calling:** ReAct workflows, Model Context Protocol (MCP), state mutation.
 - **Evaluation & Reliability:** LLM-as-a-Judge, golden trajectories, adversarial testing, SQL/state verification.
-- **Backend Architecture:** Event-driven Python microservices (FastAPI, Celery, Kafka), asynchronous processing, Docker.
+- **Backend Architecture:** Event-driven Python microservices, asynchronous processing.
 
 ---
 
@@ -27,7 +27,7 @@ I am a **Senior AI Engineer** focused on building production-oriented LLM applic
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| **[AST-PARSER](https://github.com/bilalayaz2/AST-PARSER)** | Production LLM PR code review system utilizing **LangGraph parallel evaluators**, AST-based semantic chunking, Qdrant RAG, and FastAPI/Celery workers with deterministic retry loops. |
+| **[AST-PARSER](https://github.com/bilalayaz2/AST-PARSER)** | Production LLM PR code review system utilizing **LangGraph parallel evaluators**, AST-based semantic chunking, Qdrant RAG, and FastAPI/Celery workers. |
 | **ClinicoMap Architecture** | Event-driven hybrid ingestion for 200+ page clinical protocols. Demonstrates boundary-aware semantic chunking and ontology mapping with Bio_ClinicalBERT. |
 | **Multimodal Content Summarizer** | Tiered fallback pipelines (Newspaper3k → yt-dlp → Whisper ASR). Demonstrates long-context batching and Sentence-BERT timestamp navigation. |
 | **Agent Evaluation Harness** | *In development:* Golden trajectories, tool-call validation, and deterministic state checks for evaluating LLM agent reliability. |
@@ -36,16 +36,14 @@ I am a **Senior AI Engineer** focused on building production-oriented LLM applic
 
 ### 🛠️ Technical Stack
 
-**AI / Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-*ReAct, RAG, Tool Calling, Semantic Search, BERT, LoRA, QLoRA*
+**AI / Machine Learning Ecosystem**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Backend / Distributed Systems**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-*Microservices, Async Processing, Qdrant, REST APIs*
+**Generative AI & LLM Engineering**  
+![RAG](https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-005571?style=for-the-badge) ![ReAct Workflows](https://img.shields.io/badge/ReAct_Workflows-37814A?style=for-the-badge) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-D14836?style=for-the-badge) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=for-the-badge) ![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-B52E31?style=for-the-badge) ![RLHF/RLAIF](https://img.shields.io/badge/RLHF_/_RLAIF-5B3256?style=for-the-badge)
 
-**Evaluation & Quality**
-*Adversarial Testing, LLM Evaluation, Structured Output Validation, RLHF/RLAIF*
+**Backend & Distributed Systems**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=for-the-badge&logo=qdrant&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
