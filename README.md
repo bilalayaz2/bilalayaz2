@@ -36,7 +36,7 @@ I build scalable, production-oriented **LLM applications, RAG pipelines, and age
 |---------|----------------------|
 | **[AST-PARSER](https://github.com/bilalayaz2/AST-PARSER)** | Production LLM PR code review system utilizing **LangGraph parallel evaluators**, AST-based semantic chunking, Qdrant RAG, and FastAPI/Celery workers. |
 | **ClinicoMap Architecture** | Event-driven hybrid ingestion for 200+ page clinical protocols. Demonstrates boundary-aware semantic chunking and ontology mapping with Bio_ClinicalBERT. |
-| **Multimodal Content Summarizer** | Tiered fallback pipelines (Newspaper3k → yt-dlp → Whisper ASR). Demonstrates long-context batching and Sentence-BERT timestamp navigation. |
+| **[Multimodal Content Summarizer](https://github.com/bilalayaz2/Multimodal-Content-Summarizer)** | Tiered fallback pipelines (Newspaper3k → yt-dlp → Whisper ASR). Demonstrates long-context batching and Sentence-BERT timestamp navigation. |
 | **Agent Evaluation Harness** | *In development:* Golden trajectories, tool-call validation, and deterministic state checks for evaluating LLM agent reliability. |
 
 ---
