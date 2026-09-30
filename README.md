@@ -45,7 +45,3 @@ I build scalable, production-oriented **LLM applications, RAG pipelines, and age
 - **Measure everything:** Make model behavior measurable; prefer deterministic checks over LLM-as-a-judge where possible.
 - **Version control:** Treat prompts, schemas, and evaluation datasets as first-class versioned software assets.
 - **Transparency:** Document limitations, failures, and threat models instead of hiding them.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalayaz2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
